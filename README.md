@@ -25,6 +25,6 @@ Este repositorio describe los pasos para generar y estructurar un Proyecto de Da
 4. Siga las instrucciones en el subdirectorio `ETL` para comenzar con la preparación y carga de datos.
 
 ## Configuración
-1. Seleccione 
+1. Seleccione  `Use This Template`
   Mas información en  [Crear un repositorio desde una plantilla](https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
