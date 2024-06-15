@@ -21,7 +21,7 @@ Este repositorio describe los pasos para generar y estructurar un Proyecto de Da
 
 1. Clone el repositorio.
 2. Revise la documentación en cada subdirectorio para entender su propósito y cómo utilizarlo.
-3. Elimine los directorios que no aplican a tu proyecto específico
+3. Elimine los directorios que no aplican a su proyecto específico
 4. Siga las instrucciones en el subdirectorio `ETL` para comenzar con la preparación y carga de datos.
 
 ## Configuración
