@@ -5,7 +5,7 @@ Estructura creación proyecto DATA-BI
 ## Descripción
 Este repositorio describe los pasos para generar y estructurar un Proyecto de Data-BI  
 
-## Estructura del Proyecto
+## Estructura del Proyecto sugerida
 - `/DataSources`: Datos originales en formato CSV, Excel, etc.
 - `/ETL`: Scripts para extracción, transformación y carga de datos.
 - `/DataWarehouse`: Esquemas y estructuras del almacén de datos.
@@ -15,6 +15,13 @@ Este repositorio describe los pasos para generar y estructurar un Proyecto de Da
 - `/Scripts`: Scripts adicionales y utilidades.
 - `/Backups`: Copias de seguridad de datos.
 - `/Logs`: Archivos de registro.
+
+
+## Cómo empezar
+
+1. Clone el repositorio.
+2. Revise la documentación en cada subdirectorio para entender su propósito y cómo utilizarlo.
+3. Siga las instrucciones en el subdirectorio `ETL` para comenzar con la preparación y carga de datos.
 
 ## Configuración
 1. Clonar el repositorio:
