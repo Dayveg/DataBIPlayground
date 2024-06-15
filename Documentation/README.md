@@ -1,15 +1,23 @@
 # Documentation
 
-Este directorio contiene toda la documentaci髇 t閏nica, manuales de usuario, pol韙icas y procedimientos del proyecto DATA-BI.
-
-## Estructura
-
-- /Technical: Documentaci髇 t閏nica detallada de los scripts y procesos.
-- /UserManuals: Manuales de usuario para facilitar el uso del sistema.
-- /Guidelines: Gu韆s de estilo y mejores pr醕ticas.
-- /BackupPolicy: Pol韙icas y procedimientos para las copias de seguridad.
-- /ProjectManagement: Documentaci髇 relacionada con la gesti髇 del proyecto, incluyendo el uso de Jira.
+Este directorio contiene la documentaci贸n t茅cnica detallada sobre los scripts, procesos y arquitectura del sistema.
 
 ## Uso
 
-Revise cada subdirectorio para obtener informaci髇 espec韋ica y detallada sobre los diferentes aspectos del proyecto.
+- Mantenga la documentaci贸n t茅cnica de los scripts y procesos aqu铆.
+- Incluya manuales de usuario para facilitar el uso del sistema a los nuevos usuarios.
+
+## Estructura Sugerida
+
+- `/Technical`: Documentaci贸n t茅cnica detallada de los scripts y procesos.
+- `/UserManuals`: Manuales de usuario para facilitar el uso del sistema.
+- `/Guidelines`: Gu铆as de estilo y mejores pr谩cticas.
+- `/BackupPolicy`: Pol铆ticas y procedimientos para las copias de seguridad.
+- `/ProjectManagement`: Documentaci贸n relacionada con la gesti贸n del proyecto, incluyendo el uso del software de proyectos.
+
+## Uso
+
+Revise cada subdirectorio para obtener informaci贸n espec铆fica y detallada sobre los diferentes aspectos del proyecto.
+
+
+## Descomposicion de la estructura 
