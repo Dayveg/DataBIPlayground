@@ -21,10 +21,12 @@ Este repositorio describe los pasos para generar y estructurar un Proyecto de Da
 
 1. Clone el repositorio.
 2. Revise la documentación en cada subdirectorio para entender su propósito y cómo utilizarlo.
-3. Siga las instrucciones en el subdirectorio `ETL` para comenzar con la preparación y carga de datos.
+3. Elimine los directorios que no aplican a tu proyecto específico
+4. Siga las instrucciones en el subdirectorio `ETL` para comenzar con la preparación y carga de datos.
 
 ## Configuración
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-proyecto.git
+   git clone https://github.com/usuario/nombre-proyecto.git](https://github.com/Dayveg/DataBIPlayground.git
    cd nombre-proyecto
+
